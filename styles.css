@@ -1,5 +1,10 @@
+/* Navbar */
+.navbar{
+    font-size: large;
+}
+
+/* Home page */
 .home-page{
-    margin-top: 2%;
     background-color: tan;
 }
 .home-page img{
@@ -17,7 +22,7 @@
     background-color: antiquewhite;
     text-align: start;
     font-family: 'Roboto Slab', serif;
-    height: 60vh;
+    height: 51vh;
 }
 .home-text h1{
     margin-left: 5%;
