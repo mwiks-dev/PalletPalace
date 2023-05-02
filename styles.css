@@ -1,6 +1,9 @@
 /* Navbar */
 .navbar{
     font-size: large;
+    font-family: 'Roboto Slab', serif;
+    position: fixed;
+    top:0;
 }
 
 /* Home page */
@@ -67,3 +70,26 @@
     object-fit: cover;
     padding: 5px;
   }
+/* Contact Us Page */
+.contact-us h2{
+    background-image: url('https://images.unsplash.com/photo-1515446134809-993c501ca304?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:3em;
+    color:white;
+    font-size:4em;
+}
+
+.whatsapp-button{
+    font-family:'Roboto Slab', serif;
+    display: flex;
+    justify-content: center;
+}
+.whatsapp{
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    border:none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5em;
+}
